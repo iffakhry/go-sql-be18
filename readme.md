@@ -27,6 +27,8 @@ note: jalankan di terminal bash atau linux.
 
 ```
 source .env
-
+```
+lalu, ketika file .env sudah di load, maka jalankan project golang kalan
+```
 go run main.go
 ```
